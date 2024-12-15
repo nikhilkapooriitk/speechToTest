@@ -1,0 +1,6 @@
+1. This is a project that will convert speech to typing.
+2. The project will be built using Python and the SpeechRecognition library.
+3. This application to run on a local machine.
+4. Special characters text should be converted to the corresponding special character. If text is required in place of a special character, user shall have to say a reserved word.
+5. Undo is used to delete the last word typed.
+
